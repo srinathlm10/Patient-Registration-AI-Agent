@@ -1,6 +1,6 @@
 streamlit
 chromadb==0.4.22
-torch==2.0.1+cpu
+torch==2.5.0
 sentence-transformers==2.2.2
 transformers==4.35.0
 gitpython
