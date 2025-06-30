@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+transformers
+chromadb>=0.4.0
+gitpython
+requests
